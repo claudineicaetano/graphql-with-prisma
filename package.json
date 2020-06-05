@@ -25,6 +25,7 @@
     "prisma-binding": "^2.3.16"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "braces": ">=2.3.1"
   }
 }
