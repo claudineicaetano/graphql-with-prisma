@@ -1,4 +1,4 @@
 node_modules
-config/
+#config/
 dist/
 tests/utils/getClientWithSubs.js
